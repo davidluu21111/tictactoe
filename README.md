@@ -42,7 +42,7 @@ To run the game locally, follow these steps:
 
 ## How to Play
 
-1. **Select Mode**: Choose either Human vs. Human or Human vs. AI mode.
+1. **Select Mode**: Choose Human vs. Human 
 2. **Start Game**: Click on an empty cell on the grid to place your mark.
 3. **Win the Game**: Be the first to align five marks in a row to win!
 
